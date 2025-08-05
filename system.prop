@@ -1,0 +1,6 @@
+net.bt.name=Android
+persist.sys.powertips=true
+persist.sys.timezone=Africa/Cairo
+ro.build.rp3plus.ota.version=1.0.1.6
+ro.vendor.retro.name=3.5
+ro.wifi.channels=
